@@ -35,6 +35,11 @@ Já estagiei na **Giz Net** (foco em Redes) — *Fev 2025 - Jun 2025*.
 
 ---
 
+## 🔥 Atividade no GitHub
+![GitHub Streak](https://streak-stats.demolab.com?user=mafemaro&theme=radical&hide_border=true)
+
+---
+
 ## 📫 Contato
 - ✉️ Email: [mariafernandaomaro@gmail.com](mailto:mariafernandaomaro@gmail.com)  
 - 🔗 LinkedIn: [Maria Fernanda Maro](https://www.linkedin.com/in/maria-fernanda-maro)  
