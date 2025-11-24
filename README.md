@@ -30,13 +30,7 @@ Já estagiei na **Giz Net** (foco em Redes) — *Fev 2025 - Jun 2025*.
 ---
 
 ## 📊 Estatísticas do GitHub
-![Maria Fernanda GitHub stats](https://github-readme-stats.vercel.app/api?username=mafemaro&show_icons=true&theme=radical)
 ![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mafemaro&layout=compact&theme=radical)
-
----
-
-## 🔥 Atividade no GitHub
-![GitHub Streak](https://streak-stats.demolab.com?user=mafemaro&theme=radical&hide_border=true)
 
 ---
 
