@@ -1,21 +1,38 @@
 # 👋 Olá! Eu sou Maria Fernanda Oliveira Maro
 
-![Estudante](https://img.shields.io/badge/Estudante-Ciência%20da%20Computação-brightgreen?style=flat-square&logo=student)
+![Estudante](https://img.shields.io/badge/Estudante-Ciência%20da%20Computação-brightgreen?style=flat-square)
 
 ---
 
 ## Sobre Mim
-Olá! Sou **Maria Fernanda Oliveira Maro**, estudante de **Ciência da Computação** na **PUC Minas** e formada no curso técnico de **Desenvolvimento Web e Mobile** no **Cotemig**.  
+Olá! Sou **Maria Fernanda Oliveira Maro**, estudante de **Ciência da Computação** na **PUC Minas** e formada no curso técnico de **Desenvolvimento Web e Mobile** pelo **Cotemig**.
 
-Atualmente, estou aprendendo:
+Tenho interesse em desenvolvimento de software, lógica de programação e construção de soluções eficientes, sempre buscando evoluir tecnicamente e academicamente.
 
-- **Algoritmo e Estrutura de Dados I**  
+Já atuei como **estagiária na Giz Net**, com foco em **Redes** (*Fev 2025 – Jun 2025*).
+
+---
+
+## 📖 Disciplinas em andamento
+- **Arquitetura de Computadores**  
+- **Algoritmos e Estruturas de Dados II**  
+- **Cálculo II**  
+- **Engenharia de Software I**  
+- **Trabalho Interdisciplinar II: Back-End**
+
+Curso: **Ciência da Computação**  
+Campus: **Coração Eucarístico – PUC Minas**  
+Modalidade: **Graduação Presencial (Manhã)**
+
+---
+
+## 📚 Disciplinas já cursadas
+- **Algoritmos e Estruturas de Dados I**  
 - **Cálculo I**  
-- **Introdução aos Sistemas Inteligentes**
-
-Já estagiei na **Giz Net** (foco em Redes) — *Fev 2025 - Jun 2025*.
-
-💡 Sempre buscando aprender novas tecnologias e construir projetos incríveis!
+- **Introdução à Computação**  
+- **Laboratório de Iniciação à Programação**  
+- **Desenvolvimento de Interfaces Web**  
+- **Trabalho Interdisciplinar I: Front-End**
 
 ---
 
@@ -30,7 +47,9 @@ Já estagiei na **Giz Net** (foco em Redes) — *Fev 2025 - Jun 2025*.
 ---
 
 ## 📊 Estatísticas do GitHub
-![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mafemaro&layout=compact&theme=radical)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=mafemaro&theme=radical&hide_border=true)
 
 ---
 
