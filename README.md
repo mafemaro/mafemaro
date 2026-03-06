@@ -11,6 +11,8 @@ Tenho interesse em desenvolvimento de software, lógica de programação e const
 
 Já atuei como **estagiária na Giz Net**, com foco em **Redes** (*Fev 2025 – Jun 2025*).
 
+Atualmente atuo como **monitora de Cálculo I** na PUC Minas, Coração Eucarístico.
+
 ---
 
 ## 📖 Disciplinas em andamento
