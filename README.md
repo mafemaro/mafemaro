@@ -1,63 +1,92 @@
 # 👋 Olá! Eu sou Maria Fernanda Oliveira Maro
 
-![Estudante](https://img.shields.io/badge/Estudante-Ciência%20da%20Computação-brightgreen?style=flat-square)
+🎓 Estudante de Ciência da Computação na PUC Minas  
+💻 Desenvolvedora em formação | 🔬 Interesse em pesquisa em Computação  
+📍 Foco em desenvolvimento de software, lógica e resolução de problemas  
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorchagas-mcl&theme=dark"/>
-</p>
+Sou estudante de **Ciência da Computação na PUC Minas** e formada em **Desenvolvimento Web e Mobile pelo Cotemig**. Tenho interesse tanto no desenvolvimento de software quanto na área acadêmica de pesquisa em Computação, especialmente em lógica, algoritmos e engenharia de software.
 
-
----
-
-## Sobre Mim
-Olá! Sou **Maria Fernanda Oliveira Maro**, estudante de **Ciência da Computação** na **PUC Minas** e formada no curso técnico de **Desenvolvimento Web e Mobile** pelo **Cotemig**.
-
-Tenho interesse em desenvolvimento de software, lógica de programação e construção de soluções eficientes, sempre buscando evoluir tecnicamente e academicamente.
-
-Já atuei como **estagiária na Giz Net**, com foco em **Redes** (*Fev 2025 – Jun 2025*).
-
-Atualmente atuo como **monitora de Cálculo I** na PUC Minas, Coração Eucarístico.
+Busco evoluir tecnicamente por meio de experiências práticas e também aprofundar minha base teórica, com interesse em iniciação científica no futuro.
 
 ---
 
-## 📖 Disciplinas em andamento
-- **Arquitetura de Computadores**  
-- **Algoritmos e Estruturas de Dados II**  
-- **Cálculo II**  
-- **Engenharia de Software I**  
-- **Trabalho Interdisciplinar II: Back-End**
+## 🚀 Principais Habilidades
 
-Curso: **Ciência da Computação**  
-Campus: **Coração Eucarístico – PUC Minas**  
-Modalidade: **Graduação Presencial (Manhã)**
+### 💻 Desenvolvimento
+- HTML, CSS, JavaScript  
+- C (lógica e fundamentos de programação)  
 
----
+### ⚙️ Ferramentas
+- Git & GitHub  
+- VS Code  
 
-## 📚 Disciplinas já cursadas
-- **Algoritmos e Estruturas de Dados I**  
-- **Cálculo I**  
-- **Introdução à Computação**  
-- **Laboratório de Iniciação à Programação**  
-- **Desenvolvimento de Interfaces Web**  
-- **Trabalho Interdisciplinar I: Front-End**
+### 📚 Fundamentos
+- Estruturas de Dados e Algoritmos  
+- Lógica de Programação  
+- Arquitetura de Computadores  
+- Engenharia de Software (base inicial)  
+- Sistemas Inteligentes (introdução)
 
 ---
 
-## 💻 Tecnologias & Ferramentas
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## 🔬 Interesses Acadêmicos e Pesquisa
+
+- Algoritmos e Estruturas de Dados  
+- Lógica e Complexidade Computacional  
+- Engenharia de Software e qualidade de sistemas  
+- Sistemas Inteligentes e fundamentos de IA  
+- Resolução de problemas e modelagem computacional  
+- Interesse em Iniciação Científica (IC)  
+
+---
+
+## 📌 Experiência & Atuação
+
+**🧠 Monitora de Cálculo I — PUC Minas**  
+*Atual*  
+- Apoio a estudantes na compreensão de conceitos matemáticos  
+- Desenvolvimento de comunicação técnica e didática  
+- Fortalecimento de raciocínio lógico e analítico  
+
+**🌐 Estagiária em Redes — Giz Net**  
+*Fev 2025 – Jun 2025*  
+- Atuação com fundamentos de redes de computadores  
+- Experiência prática em ambiente técnico  
+- Suporte e contato com infraestrutura  
+
+---
+
+## 🎓 Formação Acadêmica
+
+**Ciência da Computação — PUC Minas**  
+📍 Coração Eucarístico | Presencial  
+
+### Em andamento:
+- Algoritmos e Estruturas de Dados II  
+- Cálculo II  
+- Arquitetura de Computadores  
+- Engenharia de Software I  
+- Trabalho Interdisciplinar II (Back-End)  
+
+### Concluídas:
+- Algoritmos e Estruturas de Dados I  
+- Cálculo I  
+- Desenvolvimento de Interfaces Web  
+- Introdução à Computação  
+- Laboratório de Iniciação à Programação  
+- Introdução aos Sistemas Inteligentes  
+- Trabalho Interdisciplinar I (Front-End)  
 
 ---
 
 ## 📫 Contato
-- ✉️ Email: [mariafernandaomaro@gmail.com](mailto:mariafernandaomaro@gmail.com)  
-- 🔗 LinkedIn: [Maria Fernanda Maro](https://www.linkedin.com/in/maria-fernanda-maro)  
-- 🖥️ GitHub: [mafemaro](https://github.com/mafemaro)
+
+- ✉️ Email: mariafernandaomaro@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/maria-fernanda-maro  
+- 🖥️ GitHub: https://github.com/mafemaro  
 
 ---
 
-*Desenvolvido com ❤️ por Maria Fernanda Oliveira Maro*
+## 💡 Sobre mim
+
+Tenho interesse em desafios que envolvem lógica, abstração e construção de soluções eficientes. Busco oportunidades para atuar na área de desenvolvimento de software e também aprofundar minha trajetória acadêmica em pesquisa na área de Computação.
