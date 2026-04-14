@@ -2,6 +2,11 @@
 
 ![Estudante](https://img.shields.io/badge/Estudante-Ciência%20da%20Computação-brightgreen?style=flat-square)
 
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorchagas-mcl&theme=dark"/>
+</p>
+
+
 ---
 
 ## Sobre Mim
